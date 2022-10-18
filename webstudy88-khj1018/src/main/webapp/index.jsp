@@ -18,7 +18,7 @@
 </head>
 <body>
 <div class="container pt-3">
-메인 UI
+메인 UI 2
 </div>
 </body>
 </html>
